@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ddurbin_CurrencyCoversion</string>
+    <string name="rad_dlr_to_pnd">Convert U.S. Dollars to UK Pound sterling</string>
+    <string name="rad_pnd_to_dlr">Convert UK Pound sterling to U.S. Dollars</string>
+    <string name="btnConvert">Convert Amount</string>
+</resources>
